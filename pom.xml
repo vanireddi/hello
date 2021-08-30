@@ -68,8 +68,7 @@
   <configuration>
     <url>http://18.116.42.89:8081/manager/text</url>
                     <server>tomcat</server>
-
-    <path>/myhello</path>
+  <path>/myhello</path>
   </configuration>
         </plugin>
       </plugins>
